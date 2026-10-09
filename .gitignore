@@ -1,0 +1,21 @@
+# Скомпилированные файлы и бинарники
+*.exe
+*.pdb
+*.ppu
+*.o
+*.pcu
+
+# Директории сборки
+bin/
+obj/
+output/
+
+# История и автосохранения PascalABC.NET IDE
+__History/
+*.lock
+
+# Системные файлы и файлы ОС
+.DS_Store
+Thumbs.db
+*.suo
+*.user
